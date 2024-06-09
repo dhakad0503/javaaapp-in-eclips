@@ -3,7 +3,7 @@
 <h2>Hello World! for you guys</h2>
 <p>this is going to deploy manually</p>
 <a href ="about.jsp">about page</a>
-<a href ="services.jsp">about page</a>
+<a href ="services.jsp">services</a>
 <p>all set for deploye</p>
 <p>all set for deploying to jenkins</p>
 </body>
